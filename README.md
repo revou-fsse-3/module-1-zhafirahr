@@ -12,6 +12,9 @@ and Version Control System with Github
    
 ====================================
 ### PS : This is my website [Link](hohoverse1.netlify.app)
+
+### PS : This is my website [Week 2](https://hohoverse-new.netlify.app/)
+
 ## About Me
 [![Profile Picture](assets/IMG_20230415_172052.jpg)]
 Hello, I'm Zhafirah Rizqy Nur Shabrina. you can call me Fira,Zhafirah or F.R I'm a Bachelor of Informatics graduate from Telkom University who has a great interest in Website development and Data Science. Becoming someone who is competent in the field that I interested in is my desire. I'm a person who can work in groups, can work under pressure and like to learn new things.
